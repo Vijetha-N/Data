@@ -1,4 +1,4 @@
-ID,id old,name,type,dimension,residents,char name,char status,char species,char type,char gender
+ID,id old,name,type,dimension,residents,charName,charStatus,charSpecies,charType,charGender
 1,1,Earth (C-137),Planet,Dimension C-137,38,Beth Smith,Alive,Human,,Female
 2,1,Earth (C-137),Planet,Dimension C-137,45,Bill,Alive,Human,,Male
 3,1,Earth (C-137),Planet,Dimension C-137,71,Conroy,Dead,Robot,,unknown
